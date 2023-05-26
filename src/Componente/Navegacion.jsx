@@ -24,7 +24,6 @@ export const Navegacion = () => {
           <Navbar.Collapse id="basic-navbar-nav">
             <Nav className="me-auto">
               <Nav.Link href="#home">Help</Nav.Link>
-              <Nav.Link href="#link">Bolg</Nav.Link>
               <Nav.Link href="#link">Developer</Nav.Link>
               <Nav.Link href="#link">Donate</Nav.Link>
              
